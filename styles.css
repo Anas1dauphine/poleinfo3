@@ -1,0 +1,29 @@
+
+TR.header {background-color:#000099; color:white; text-align:left;
+         font-weight:bold}
+TR.odd {background-color:#eeeeee}
+TR.even {background-color:#dddddd}
+
+
+H1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000099;
+}
+a {
+	color: #000099;
+
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000099;
+}
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	color: #000099;
+}

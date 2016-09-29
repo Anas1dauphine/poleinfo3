@@ -1,0 +1,15 @@
+<HTML>
+<HEAD>
+<TITLE>Pôle Info 3 - Paris-Dauphine</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</HEAD>
+	<FRAMESET rows="150,1*" cols="*" border="0" framespacing="0" frameborder="NO" bordercolor="#FFFFFF">
+		<FRAME src="top.html" name="toplogo" marginwidth="0" marginheight="0" noresize scrolling="NO" frameborder="NO" bordercolor="#FFFFFF">
+		<FRAMESET cols="160,1*" rows="*" border="0" framespacing="0" frameborder="NO">
+		<FRAME src="navbar.html" marginwidth="0" marginheight="0" name="navbar" noresize scrolling="NO" bordercolor="#FFFFFF" frameborder="NO">
+         <FRAME src="home.html" marginwidth="0" marginheight="0" noresize frameborder="NO" name="content">
+		</FRAMESET>
+	</FRAMESET><noframes></noframes>
+
+<BODY bgcolor="#FFFFFF">{HOHHO}</BODY>
+</HTML>

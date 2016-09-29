@@ -1,0 +1,3 @@
+= poleinfo3
+This code is copyrighted by Paris-Dauphine. It is published here only for pedagogical purposes. This publication does not give the right to use the code for any purpose.
+

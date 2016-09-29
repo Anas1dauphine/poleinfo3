@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TEXTS name="main">
+   <!-- Titles  -->
+   <TEXTS name="titles">
+     <TTL_ABSTRACT_SUBMISSION>Abstract submission</TTL_ABSTRACT_SUBMISSION>
+     <TTL_REVIEWER_PAGE>Review interface</TTL_REVIEWER_PAGE>
+     <TTL_CONFIGURE>Configure the system</TTL_CONFIGURE>
+     <TTL_SUBMITTED_PUBLIS>List of submitted papers</TTL_SUBMITTED_PUBLIS>
+     <TTL_ALL_AUTHORS>List of authors</TTL_ALL_AUTHORS>
+     <TTL_ACCEPTED_PUBLIS>List of accepted papers</TTL_ACCEPTED_PUBLIS>
+     <TTL_PUBLIS_TO_RATE>Publi rating</TTL_PUBLIS_TO_RATE>
+     <TTL_PUBLIS_TO_REVIEW>Your papers</TTL_PUBLIS_TO_REVIEW>
+     <TTL_RESEARCH_TOPICS>Selection of research topics</TTL_RESEARCH_TOPICS>
+     <TTL_SUMMARY_ASSIGNMENT>Summary of papers assignment</TTL_SUMMARY_ASSIGNMENT>
+</TEXTS>
+
+  <!-- Forms fields labels   -->
+  <TEXTS name="forms">
+     <FRM_SUBMIT>Submit</FRM_SUBMIT>
+     <FRM_GO>Go</FRM_GO>
+
+     <!-- Person -->
+     <LAST_NAME>Last name</LAST_NAME>
+     <FIRST_NAME>First name</FIRST_NAME>
+
+     <!-- Publi submission -->
+     <FRM_SUBMISSION_TITLE>Publi form</FRM_SUBMISSION_TITLE>
+     <FRM_PUBLI_TITLE>Title</FRM_PUBLI_TITLE>
+     <FRM_PUBLI_AUTHORS>Authors</FRM_PUBLI_AUTHORS>
+     <FRM_OTHER_AUTHORS>Other authors </FRM_OTHER_AUTHORS>
+     <FRM_PUBLI_CONFERENCE>Conference</FRM_PUBLI_CONFERENCE>
+     <FRM_PUBLI_JOURNAL>Journal</FRM_PUBLI_JOURNAL>
+     <FRM_PUBLI_ABSTRACT>Abstract</FRM_PUBLI_ABSTRACT>
+     <FRM_PUBLI_UPLOAD>Upload</FRM_PUBLI_UPLOAD>
+     <FRM_PUBLI_FORMAT>Publi format</FRM_PUBLI_FORMAT>
+     <FRM_PUBLI_TYPE>Type</FRM_PUBLI_TYPE>
+
+     <FRM_AUTHORS>List of authors</FRM_AUTHORS>
+     <FRM_FIRST_NAME>First name</FRM_FIRST_NAME>
+     <FRM_LAST_NAME>Last name</FRM_LAST_NAME>
+     <FRM_AFFILIATION>Affiliation</FRM_AFFILIATION>
+    </TEXTS>
+   <!-- End of forms fields labels   -->
+
+  <!-- Short, misc. texts  -->
+   <TEXTS name="misc">
+     <TXT_YES>Yes</TXT_YES>
+     <TXT_NO>No</TXT_NO>
+   </TEXTS>
+
+  <!-- Warning and error messages   -->
+  <TEXTS name="errors">
+  </TEXTS>
+</TEXTS>
