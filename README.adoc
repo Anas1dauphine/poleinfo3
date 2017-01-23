@@ -11,7 +11,7 @@ Tested with PHP5 (but maybe not written originally for php5).
 
 == Notes
 
-I changed the column type of `Session.id_person` from `VARCHAR(60)` to `INTEGER`, otherwise creating an error on the foreign key constraint from `Session.id_person` to `Personne.id`.
+I changed, in `Schema.sql`, the column type of `Session.id_person` from `VARCHAR(60)` to `INTEGER`, otherwise creating an error on the foreign key constraint from `Session.id_person` to `Personne.id`.
 
 == Install
 
