@@ -9,13 +9,18 @@ Tested with PHP5 (but maybe not written originally for php5).
 * Enable http://php.net/short_open_tag[`short_open_tag`] in PHP configuration. This is required because some files (e.g. `IhmPerson.class.php`) use the short form (<? ?>) of PHP’s open tag.
 * Set http://php.net/error_reporting[`error_reporting`] to `E_ALL & ~E_DEPRECATED`. The code requires the mysql extension, which is deprecated.
 
-== Notes
-
-I changed, in `Schema.sql`, the column type of `Session.id_person` from `VARCHAR(60)` to `INTEGER`, otherwise creating an error on the foreign key constraint from `Session.id_person` to `Personne.id`.
-
 == Install
 
 * Create a database `Master`: `mysqladmin -u root -p create Master`.
 * Populate the database using the provided `Schema.sql` script: `mysql -u root -p Master < Schema.sql`.
 * Test with `test.php` (you need to provide the credentials in the file).
+* (Optional) remove the echo command in `GestionErreurs.php`.
+* Put the credentials for DB access into the `DBInfo.php` file.
+
+To log into the application, see table `Personne` (or equivalently, the `Schema.sql` file).
+
+== Notes
+
+* I changed, in `Schema.sql`, the column type of `Session.id_person` from `VARCHAR(60)` to `INTEGER`, otherwise creating an error on the foreign key constraint from `Session.id_person` to `Personne.id`.
+
 
