@@ -1,6 +1,6 @@
 <?php
-  define ("NAME","adminMaster");
-  define ("PASS", "Adm1nM4ster23");
+  define ("NAME","root");
+  define ("PASS", "MODIFIED-Olivier");
   define ("SERVER", "localhost");
   define ("BASE", "Master");
 

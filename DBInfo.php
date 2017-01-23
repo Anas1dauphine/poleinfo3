@@ -3,7 +3,7 @@
 
 // The standard user: can do anything 
   define ("NAME","adminMaster");
-  define ("PASS", "Adm1nM4ster23");
+  define ("PASS", "MODIFIED-Olivier");
   define ("SERVER", "localhost");
   define ("BASE", "Master");
 ?>

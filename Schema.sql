@@ -86,7 +86,7 @@ CREATE TABLE Affectation (id_master INTEGER NOT NULL,
 #
 
 CREATE TABLE Session (id_session     VARCHAR (40) NOT NULL,
-	               id_person        VARCHAR(60) NOT NULL, 
+	               id_person        INTEGER NOT NULL, 
 		    first_name VARCHAR(60) NOT NULL,
 		    last_name VARCHAR(60) NOT NULL,
 	               end_session   DECIMAL (10,0) NOT NULL,

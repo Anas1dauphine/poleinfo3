@@ -1,9 +1,0 @@
-<?php
-// Constants that define how to connect the DB
-
-// The standard user: can do anything 
-  define ("NAME","adminMaster");
-  define ("PASS", "Adm1nM4ster23");
-  define ("SERVER", "l1.lamsade.dauphine.fr");
-  define ("BASE", "Master");
-?>
